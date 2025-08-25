@@ -79,30 +79,6 @@ src
 ├── resources
 │   └── application.properties
 ```
-##Screenshots
-
-![ER Diagram](screenshot_er_diagram.png)
-
-![MySQL Author List](screenshot_mysql_authorlist.png)
-
-![Student Card Status](screenshot_mysql_authorlist.png)
-
-![Student List Saved](screenshot_student_list_save.png)
-
-![Transaction Screenshot](screenshot_student_transaction.png)
-
-![Book Save](screenshot_book_save.png)
-
-![Custom Query by Email](screenshot_customquery_bystuemail.png)
-
-![Find All Students](screenshot_findall_student.png)
-
-![Get Student by PageNo](screenshot_get_student_by_pageno.png)
-
-![Postman Author Save](screenshot_postman_author_save.png)
-
-![Postman_student_update_By_email](screenshot_student_update_deatails.png)
-
 --
 
 ## 🔗 Useful Commands
