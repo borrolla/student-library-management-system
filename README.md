@@ -47,7 +47,10 @@ Use Postman or browser to test endpoints.
 
 ---
 
+<<<<<<< HEAD
  HEAD
+=======
+>>>>>>> cb3b599 (Update README.md)
 ## 🚀 Features
 - Student management (Add, Update, Delete, Get)
 - Book management
@@ -64,7 +67,10 @@ Use Postman or browser to test endpoints.
 - **API Testing:** Postman
 - **Build Tool:** Maven
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cb3b599 (Update README.md)
 ## 📁 Project Structure
 
 ```
