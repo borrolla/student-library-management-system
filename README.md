@@ -79,43 +79,6 @@ src
 ```
 
 ---
-## Screenshots
-
-### ER Diagram
-![ER Diagram](screenshot/er_diagram.png)
-
-### MySQL Author List
-![MySQL Author List](screenshot/mysql_authorlist.png)
-
-### Student Card Status
-![Student Card Status](screenshot/student_card_status.png)
-
-### Student List Saved
-![Student List Saved](screenshot/student_list_saved.png)
-
-### Student List DB Table
-![Student List DB Table](screenshot/student_list_db_table.png)
-
-### Student Transaction
-![Student Transaction](screenshot/student_transaction.png)
-
-### Postman Author Save
-![Postman Author Save](screenshot/postman_author_save.png)
-
-### Student Update Details
-![Student Update Details](screenshot/student_update_details.png)
-
-### Book Save
-![Book Save](screenshot/book_save.png)
-
-### Custom Query by Student Email
-![Custom Query by Student Email](screenshot/customquery_bystuemail.png)
-
-### Find All Students
-![Find All Students](screenshot/findall_student.png)
-
-### Get Student by Page No
-![Get Student by Page No](screenshot/get_student_by_pageno.png)
 
 
 ## 🔗 Useful Commands
