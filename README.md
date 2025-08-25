@@ -81,13 +81,13 @@ src
 ---
 ## Screenshots
 ### ER Diagram
-![ER Diagram](screenshotCustomQuery_bystuEmail.png)
+![ER Diagram](screenshotcustomQuery_bystuemail.png)
 ### MySQL Author List
-![MySQL Author List](screenshotMysql_AuthorList)
+![MySQL Author List](screenshotmysql_authorList)
 ### Student Card Status
 ![Student Card Status](screenshotstudent_card_satus.png)
 ### Student List Saved
-![Student List Saved](screenshotstudentList_saved.png)
+![Student List Saved](screenshotstudentlist_saved.png)
 ### Student List DB Table
 ![Student List DB Table](screenshotstudent_list_db_table.png)
 
@@ -98,16 +98,16 @@ src
 ![Postman Author Save](screenshot2025-08-25200259.png)
 
 ### Student Update Details
-![Student Update Details](ScreenshotBook_Save.png)
+![Student Update Details](screenshotbook_save.png)
 
 ### Custom Query by Student Email
-![Custom Query by Student Email](screenshotcustomQuery_bystuemail.png)
+![Custom Query by Student Email](screenshotcustomquery_bystuemail.png)
 
 ### Find All Students
-![Find All Students](screenshotfindAll_student.png)
+![Find All Students](screenshotfindall_student.png)
 
 ### Get Student by Page No
-![Get Student by Page No](screenshotget_student_by_pageNo.png)
+![Get Student by Page No](screenshotget_student_by_pageno.png)
 
 
 
